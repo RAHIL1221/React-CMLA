@@ -1,0 +1,7 @@
+Add
+
+create a new component with name "add-prodcast" having Form to add prodcast in which is sub-component of prodcast component triggers when addButton clicked. the add-prodcast component should be switched in main part of layout
+
+Update
+
+create a new component with name "update-prodcast" having Form to update prodcast in which is sub-component of prodcast component triggers when<i className="fa fa-pencil-alt"></i>clicked. the add-prodcast component should be switched in main part of layout, first it pass id from prodcast comp to update-prodcast comp for single data then render the existing value and after changing on click of submit it will update data in prodcast
